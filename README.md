@@ -1,7 +1,7 @@
-### Git-Cheatsheet ###
+# Git-Cheatsheet ###
 
  
-# Полезные руководства по Git
+## Полезные руководства по Git
 git help -g
 
 # Поиск по содержанию
